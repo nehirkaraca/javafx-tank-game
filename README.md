@@ -16,7 +16,7 @@ The objective is to navigate the map and engage in combat while avoiding collisi
 - Game loop using JavaFX AnimationTimer
 - Object-oriented design
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java
 - JavaFX
